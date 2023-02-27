@@ -12,6 +12,6 @@ The orgiginal data set (which can be accessed through the link above) contains m
 
 
 ## Code and Scripts
-Code for data wrangling, model fitting, parameter tuning and test set implementation is included in the Jupyter notebook (*.ipynb*) file. The notebook is also available as a html version. Further, the executive summary provides a brief overview about the findings and methods used.
+Code for data wrangling, model fitting, parameter tuning and test set implementation is included in the Jupyter notebook (*.ipynb*) file. Further, the executive summary provides a brief overview about the findings and methods used.
 
 
